@@ -60,6 +60,6 @@ Telegram CRM for beauty salons and service businesses.
 
 ## 📫 Contact
 
-Telegram: https://t.me/ТВОЙ_ЛОГИН
+Telegram: https://t.me/@rodimastg
 
-HH.ru: (добавишь позже)
+HH.ru: (------)
