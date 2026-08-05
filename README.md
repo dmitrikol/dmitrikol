@@ -1,3 +1,4 @@
+<img src="assets/banner.png" width="100%">
 # 👋 Hi, I'm Dmitry
 
 ## Python Backend Developer
